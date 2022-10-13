@@ -1,4 +1,9 @@
-et
 sample text file to check vs code
 testtt
 new check lien
+testt
+test1
+test3
+test5
+test6
+
