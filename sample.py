@@ -4,3 +4,5 @@ a = [1, 2, 3, 4, 5]
          print "%d odd number:" %(i) 
         else: 
          print "%d even number:" %(i)
+print("test print"})
+print("test print3"})
